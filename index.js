@@ -126,4 +126,41 @@
 
 
 // ----------------------------------- Question No 6 : 
+// What are the data type of object and array ?
+
+// Answer : =>
+// They Both are Objects;
+
+// const a = {};
+// const b = [];
+
+// console.log(typeof(a))
+// console.log(typeof(b))
+
+
+
+// ----------------------------- Question No 7 : 
+// How to validate is this is Array or not ?
+
+// Answer 
+// const b = [];
+
+// const c = Array.isArray(b);
+// console.log(c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
