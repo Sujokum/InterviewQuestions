@@ -55,4 +55,75 @@
 
 // ------------------------ InterSection From String End
 
+// ------------------------ Union From String Start 
+
+// const st1 = '1234567'
+// const st2 = '3456789'
+
+// const arr1 = st1.split('');
+// const arr2 = st2.split('');
+
+// const Union = [...new Set([...arr1 , ...arr2])];
+// const tostring = Union.join('').toString();
+
+
+// console.log(tostring)
+
+
 // ------------------------ Union From String End 
+
+
+
+
+// ------------------------------------ Question No  3 
+
+// What is replaceAll();
+// Answer  => it will replace a word from string ;
+
+// const info = 'my name is Suneel Sujo and my real name is Sunail Sujo';
+
+// const change = info.replaceAll('Sujo' , 'Ahmed');
+// const change2 = info.replace(/Sujo/g , 'Ahmed');
+// console.log(change);
+// console.log(change2);
+
+
+
+// ---------------------------- Question No 4 :
+// What is the Output Of this Code 
+
+// const logNumber = ()=>{
+//     console.log(1);
+//     setTimeout(function(){
+//         console.log(2);
+//     },1000)
+//     setTimeout(function(){
+//         console.log(3);
+//     },0)
+//     console.log(4);
+// }
+// logNumber()
+
+// Output => 
+// 1
+// 4
+// 3
+// 2
+
+
+
+// ----------------------------------- Question No 5 : 
+// Did this equation is true ..?
+
+
+// const a = 400.4 === 200.2 * 2;   --------- True
+// const b = 900.9 === 300.3 * 3;   ---------- False
+
+// console.log(a)
+// console.log(b)
+
+
+
+
+// ----------------------------------- Question No 6 : 
+
