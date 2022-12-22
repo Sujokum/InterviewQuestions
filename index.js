@@ -218,7 +218,15 @@
 
 
 // --------------------------------------- Question No 10 
-// 
+// What is the difference between pass by value and pass by reference ?
+
+
+// ----------------- Pass By Value ------------- 
+// if we work with primitives data types and pass the value it should work and it is called Pass By Value
+
+
+
+
 
 
 
