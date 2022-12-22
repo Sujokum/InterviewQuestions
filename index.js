@@ -149,7 +149,29 @@
 // console.log(c)
 
 
-// Hello World
+
+// -------------------------- Question No 8 : 
+// What is the output of this equstion ?
+
+// Eq-1 
+
+// let myName = 'Sujo';
+// let nextName = myName;
+
+// myName = 'Ahmed'
+
+// console.log(myName);
+// console.log(nextName);
+
+
+// Output =>
+
+// Ahmed 
+// Sujo
+
+// Eq-2
+
+
 
 
 
