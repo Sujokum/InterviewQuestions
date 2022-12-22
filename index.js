@@ -172,15 +172,53 @@
 // Eq-2
 
 
+// const obj1 = {
+//     name : 'Sunail',
+//     email : 'sunail@gmail.com'
+// }
+
+// const obj2 = obj1 ;
+
+// obj2.name = 'Sujo';
+
+
+// console.log(obj1)
+// console.log(obj2)
 
 
 
+// ----------------------------------- Question No : 9
+// What is the Output of this problem?
+
+
+// let arrName = [
+//     {
+//         name : 'Sunail',
+//         email : 'sunail@gmail.com'
+//     },
+//     {
+//         name : 'Sujo',
+//         email : 'Sujo@gmail.com'
+//     }
+// ]
+
+
+// const checkIndex = arrName.indexOf({
+//     name : 'Sujo',
+//     email : 'Sujo@gmail.com'
+// })
+
+// console.log(checkIndex);
 
 
 
+// Output =>
+// -1 
 
 
 
+// --------------------------------------- Question No 10 
+// 
 
 
 
