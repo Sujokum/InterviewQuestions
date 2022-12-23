@@ -225,6 +225,20 @@
 // if we work with primitives data types and pass the value it should work and it is called Pass By Value
 
 
+// let a = 5 ;
+// let b = a ;
+
+// a = a+ 5 ;
+// console.log(a)
+// console.log(b)
+
+
+// Output = >
+
+// 10 
+// 5
+
+
 
 
 
