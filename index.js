@@ -283,10 +283,34 @@
 // How to compare 2 arrays are equal or not ?
 
 
+// var arr1 = [4 , 8 , 10 , 9 , 5]
+// var arr2 = [5 , 10 , 8 , 9 , 4]
+
+// Answer :
+// First : 
+//          Check the array length are some or not .
+
+// const isSame = arr1.length == arr2.length;
+// console.log(isSame);
+
+// Output ==> True 
+
+// Second 
+//         Check Is array one data is avaliable in Array 2 
+
+// const check = arr1.every((ele)=>{
+//     if(arr2.indexOf(ele) > -1){
+//         return (ele = arr2[arr2.indexOf(ele)]);
+//     }
+
+// })
+
+// console.log(check);
 
 
 
-
+// Output ---- 
+// True 
 
 
 
