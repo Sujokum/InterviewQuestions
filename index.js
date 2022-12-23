@@ -262,7 +262,7 @@
 // {name : 'Sujo' , email : 'Sujo@gmail.com'}
 
 
-// ------------------------- Question No 9 -------------------- 
+// ------------------------- Question No 11 -------------------- 
 // What is the output of this Code ?
 
 // Code :
@@ -279,7 +279,7 @@
 
 
 
-// -------------------------- Question No 10 ---------------------
+// -------------------------- Question No 12 ---------------------
 // How to compare 2 arrays are equal or not ?
 
 
@@ -315,7 +315,30 @@
 
 
 
+// ------------------------------ Question No : 13 ----------------------------
+// How to remove duplicate values from an array ..?
 
+// let arr = [ 1 , 1 , 1 , 2 , 2, 2 , 3 , 4 , 4 , 5, 5 , 6 , 6, 6 , 7, 7 , 7 ,8 , 8, 8 , 9 , 9];
+
+// // Answer 
+// let UniqueArr = [... new Set(arr)];
+// console.log(UniqueArr)
+
+// Output ---> 1 ,2 ,3 , 4 ,5 , 6, 7 , 8 ,9 
+
+
+// --------------------------- Question No : 14 -----------------------------
+// How to reversing the integer values ?
+// Input == 123
+// Output == 321
+
+
+// const num  ='123'
+
+// const RevNum = num.split('').reverse().join('').toString();
+// console.log(RevNum)
+
+// Output -- > 321
 
 
 
