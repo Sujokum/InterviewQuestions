@@ -239,6 +239,65 @@
 // 5
 
 
+/// ------------------- Pass By Reference ---------------
+// if we work with non-primitives data types and it can pass the reference and it should work with both properties is called Pass by Reference
+
+// const obj1 = {
+//     name : 'Sunail',
+//     email : 'Sujo@gmail.com'
+// }
+
+
+// const obj2 = obj1;
+
+// obj1.name  = 'Sujo';
+
+// console.log(obj1)
+// console.log(obj2)
+
+
+// Output --- >
+
+// {name : 'Sujo' , email : 'Sujo@gmail.com'}
+// {name : 'Sujo' , email : 'Sujo@gmail.com'}
+
+
+// ------------------------- Question No 9 -------------------- 
+// What is the output of this Code ?
+
+// Code :
+// var myName = 'Thapa technical';
+// const guessName =()=>{
+//     console.log(myName);
+//     var myName = 'SunailAhmed'
+// }
+// guessName()
+
+
+// Output ------->
+// Undefined 
+
+
+
+// -------------------------- Question No 10 ---------------------
+// How to compare 2 arrays are equal or not ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
